@@ -1,6 +1,8 @@
 # Data Innovation Labs
 
-Please join our WorkSpace on Slack to continue working on Projects - https://join.slack.com/t/datasutram/shared_invite/enQtMzI0NzQzNzI3Njk5LWMzNTFlNGRlZjhkZjY1ZTgyZGRiOGE2ODgzNGY2ZjkzN2NlMzI0NmY0M2YyOTdlYWUwZDdhMjYzMjVhZTJkNmE
+Please join our WorkSpace on Slack to continue working on Projects -
+
+[Click_Here_to_Join_Slack](https://join.slack.com/t/datasutram/shared_invite/enQtMzI0NzQzNzI3Njk5LWMzNTFlNGRlZjhkZjY1ZTgyZGRiOGE2ODgzNGY2ZjkzN2NlMzI0NmY0M2YyOTdlYWUwZDdhMjYzMjVhZTJkNmE)
 
 Once you join, you will be added to JU Innovation Labs channel where you will notified about further details.
 
