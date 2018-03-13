@@ -29,3 +29,4 @@ The files you need
 ## Python Tutorials
 
 * For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
+* For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
