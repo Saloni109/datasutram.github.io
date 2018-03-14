@@ -35,8 +35,8 @@ The files you need
 
 Here are a few modules(blocks of code) to play around with. Get used to Pandas,Folium & Scikit-Learn.
 
-[Cleaning_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Plot_Restaurant_Type.ipynb)
+[Cleaning_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/Notebooks/Plot_Restaurant_Type.ipynb)
 
-[Visualising_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Folium.ipynb)
+[Visualising_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/Notebooks/Folium.ipynb)
 
-[Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Date_data.ipynb)
+[Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/Notebooks/Date_data.ipynb)
