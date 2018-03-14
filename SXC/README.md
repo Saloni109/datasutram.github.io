@@ -8,6 +8,12 @@ Once you join, you will be added to SXC Innovation Labs channel where you will n
 
 All jupyter notebooks discussed yesterday have been uploaded in the following links. Please download and run the blocks of code.
 
+[Cleaning_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Plot_Restaurant_Type.ipynb)
+
+[Visualising_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Folium.ipynb)
+
+[Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Date_data.ipynb)
+
 If you have any doubt, feel free to ask us.
 
 Thank You
