@@ -14,6 +14,11 @@ All jupyter notebooks discussed yesterday have been uploaded in the following li
 
 [Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Date_data.ipynb)
 
+## Python Tutorials
+
+* For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
+* For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
+
 If you have any doubt, feel free to ask us.
 
 Thank You

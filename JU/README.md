@@ -21,6 +21,8 @@ The files you need
 * [cencus_village](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/cencus_village.csv)
 
 #### Doing an ingredient community mapping. Estimating which community Consumes what range of products.
+
+
 The files you need
 * [bengali_dish_recipes](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/bengali_dish_recipes.csv)
 * [chinese_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/chinese_dish_recipies.csv)
@@ -31,7 +33,7 @@ The files you need
 * For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
 * For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
 
-Here are a few modules(blocks of code) to play around with.
+Here are a few modules(blocks of code) to play around with. Get used to Pandas,Folium & Scikit-Learn.
 
 [Cleaning_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Plot_Restaurant_Type.ipynb)
 
