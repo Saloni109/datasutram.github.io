@@ -30,3 +30,11 @@ The files you need
 
 * For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
 * For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
+
+Here are a few modules(blocks of code) to play around with.
+
+[Cleaning_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Plot_Restaurant_Type.ipynb)
+
+[Visualising_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Folium.ipynb)
+
+[Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/SXC/Notebooks/Date_data.ipynb)
