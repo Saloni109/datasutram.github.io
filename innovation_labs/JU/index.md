@@ -44,6 +44,6 @@ Here are a few modules(blocks of code) to play around with. Get used to Pandas,F
 * [Visualising_the_Data](https://github.com/datasutram/datasutram.github.io/blob/master/Notebooks/Folium.ipynb)
 * [Making_algorithms](https://github.com/datasutram/datasutram.github.io/blob/master/Notebooks/Date_data.ipynb)
 
-If you have any doubt, feel free to dicuss in the forun below.
+If you have any doubt, feel free to dicuss in the forum below.
 
 Thank You

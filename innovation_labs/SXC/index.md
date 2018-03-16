@@ -22,6 +22,6 @@ All jupyter notebooks discussed in the workshop have been uploaded in the follow
 * For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
 * For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
 
-If you have any doubt, feel free to dicuss in the forun below.
+If you have any doubt, feel free to dicuss in the forum below.
 
 Thank You
