@@ -16,20 +16,20 @@ Once you join, you will be added to JU Innovation Labs channel where you will no
 
 #### 1. Estimating the religion & community from a name. You will be provided a sample dataset to train you data.
 The files you'll need
-* [eithnicuty_ground__truth](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/eithnicuty_ground__truth.csv)
-* [ethnicity_bias](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/ethnicity_bias.csv)
+* [eithnicuty_ground__truth]({{ "data/eithnicuty_ground__truth.csv" }})
+* [ethnicity_bias]({{ "data/ethnicity_bias.csv" }})
 
 #### 2. Estimating connectivity index and development index from Census 2011 Table
 The files you need-
-* [census_town](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/cencus_town.csv)
-* [census_village](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/cencus_village.csv)
+* [census_town]({{ "data/cencus_town.csv" }})
+* [census_village]({{ "data/cencus_village.csv" }})
 
 #### 3. Doing an ingredient community mapping. Estimating which community Consumes what range of products.
 The files you need
-* [bengali_dish_recipes](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/bengali_dish_recipes.csv)
-* [chinese_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/chinese_dish_recipies.csv)
-* [gujrati_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/gujarati_dish_recipies.csv)
-* [northindian_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/JU/data/northindian_dish_recipies.csv)
+* [bengali_dish_recipes]({{ "data/bengali_dish_recipes.csv" }})
+* [chinese_dish_recipies]({{ "data/chinese_dish_recipies.csv" }})
+* [gujrati_dish_recipies]({{ "data/gujarati_dish_recipies.csv" }})
+* [northindian_dish_recipies]({{ "data/northindian_dish_recipies.csv" }})
 
 ---
 ### PYTHON TUTORIALS
