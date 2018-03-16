@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    {% include head.html %}
+</head>
+
+<body class="is-loading">
+    <!-- Wrapper -->
+    <div id="wrapper" class="fade-in">
+        <header id="header">
+            <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        </header>
+
+        <!-- Nav -->
+        {% include nav.html %}
+
+        <!-- Main -->
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    <span class="date">{{page.date | date_to_string}}</span>
+                    <h1>{{site.title}}</h1>
+                    <p>{{page.excerpt}}</p>
+                </header>
+                <div class="image main"><img src="{{page.image}}" alt=""></div>
+                <p>{{content}}</p>
+                <div class="PageNavigation">
+                    {% if page.previous.url %}
+                    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> {% endif %} {% if page.next.url %}
+                    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a> {% endif %}
+            </section>
+
+            <!-- Disqus -->
+            {% if page.comments %} {% include disqus.html%} {% endif %}
+
+            </div>
+
+            <!-- Footer -->
+            {% include foot.html %}
+
+        </div>
+        <!-- Scripts -->
+        {% include scripts-main.html %} {% include tracking.html %}
+
+    </div>
+</body>
+
+</html>

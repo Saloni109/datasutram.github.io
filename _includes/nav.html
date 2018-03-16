@@ -1,0 +1,12 @@
+<nav id="nav">
+    <ul class="links">
+        <li class="{% if page.url == " / " %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+        <li class="{% if page.url contains '/innovation_labs/' %} active {% endif %}"><a href="{{ "/innovation_labs/" | absolute_url }}">Innovation Labs</a></li>
+        <li class="{% if page.url contains '/projects/' %} active {% endif %}"><a href="{{ "/projects/" | absolute_url }}">Projects</a></li>
+    </ul>
+    <ul class="icons">
+        <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+        <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+        <li><a href="{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">Linkedin</span></a></li>
+    </ul>
+</nav>

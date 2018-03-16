@@ -1,0 +1,57 @@
+<footer id="footer">
+    <section>
+        <h2>Contact Us</h2>
+        <form method="POST" action="https://formspree.io/{{site.email}}">
+            <div class="field">
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" />
+            </div>
+            <div class="field">
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email" />
+            </div>
+            <div class="field">
+                <label for="message">Message</label>
+                <textarea name="message" id="message" rows="3"></textarea>
+            </div>
+            <ul class="actions">
+                <li><input type="submit" value="Send Message" /></li>
+            </ul>
+        </form>
+    </section>
+    <section>
+        <h2>About Us</h2>
+        <section>
+            <table>
+                <tr>
+                    <td><h3>Location</h3></td>
+                    <td><p>{{site.location}}</p></td>
+                </tr>
+                <tr>
+                    <td><h3>Email</h3></td>
+                    <td><p><a href="mailto:{{site.email}}">{{site.email}}</a></p></td>
+                </tr>
+                <tr>
+                    <td><h3>Phone</h3></td>
+                    <td><p><a href="tel:{{site.phone}}">{{site.phone}}</a></p></td>
+                </tr>
+                <tr>
+                    <td><h3>Social</h3></td>
+                    <td>
+                        <ul class="icons alt">
+                            <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+                            <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+                            <li><a href="{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">Linkedin</span></a></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </section>
+</footer>
+<!-- Copyright -->
+<div id="copyright">
+    <ul>
+        <li>Design by <a href="aishik-pyne.github.io">Aishik Pyne</a></li>
+    </ul>
+</div>

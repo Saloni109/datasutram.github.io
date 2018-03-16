@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://192.168.1.145:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.1.145:4002/" rel="alternate" type="text/html" /><updated>2018-03-16T05:44:39+05:30</updated><id>http://192.168.1.145:4002/</id><title type="html">Data Sutram</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Name - Mother tongue mapping</title><link href="http://192.168.1.145:4002/project/2018/03/15/Name-Mother-Tongue_Mapping.html" rel="alternate" type="text/html" title="Name - Mother tongue mapping" /><published>2018-03-15T00:00:00+05:30</published><updated>2018-03-15T00:00:00+05:30</updated><id>http://192.168.1.145:4002/project/2018/03/15/Name-Mother-Tongue_Mapping</id><content type="html" xml:base="http://192.168.1.145:4002/project/2018/03/15/Name-Mother-Tongue_Mapping.html">&lt;h3 id=&quot;problem-statement&quot;&gt;Problem statement&lt;/h3&gt;
+&lt;p&gt;The idea behind this module is to have an idea of the back-ground of the person using just his name&lt;/p&gt;
+
+&lt;h3 id=&quot;data&quot;&gt;Data&lt;/h3&gt;
+&lt;p&gt;Go to this link and download ethnicity_ground_truth.xlsx
+https://github.com/datasutram/datasutram.github.io/tree/master/JU/data/excel&lt;/p&gt;
+
+&lt;h3 id=&quot;sample&quot;&gt;Sample&lt;/h3&gt;
+&lt;p&gt;Rohan Ghosh-&amp;gt; Bengali
+Rohan Joshi-&amp;gt; Gujarati&lt;/p&gt;
+
+&lt;h3 id=&quot;description&quot;&gt;Description:&lt;/h3&gt;
+&lt;p&gt;The excel file contains the names, surname and mother tongue of around 31,000 individuals.
+You are advised to train a model of your choice, which would take the name and surname of an individual and predict his mother tongue.
+Basis of Judgement:
+You will be judged on the basis of the accuracy of your model, it will be fed random names from voter list scrape.&lt;/p&gt;
+
+&lt;h3 id=&quot;points&quot;&gt;Points:&lt;/h3&gt;
+&lt;p&gt;8&lt;/p&gt;
+
+&lt;h3 id=&quot;days&quot;&gt;Days:&lt;/h3&gt;
+&lt;p&gt;4-6&lt;/p&gt;
+
+&lt;h3 id=&quot;submission-and-problems&quot;&gt;Submission and Problems:&lt;/h3&gt;
+&lt;p&gt;aisik.paul@xelpmoc.in&lt;/p&gt;</content><author><name>aisik</name></author><category term="project" /><summary type="html">The idea behind this module is to have an idea of the back-ground of the person using just his name</summary></entry></feed>

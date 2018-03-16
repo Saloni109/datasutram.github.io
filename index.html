@@ -1,0 +1,74 @@
+---
+layout: default
+title: Data Sutram
+description: Data Sutram is a gamified open source cloud platform that aims to create India's data repository.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+    {% include head.html %}
+    <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+	</head>
+	<body class="is-loading">
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+				<!-- Intro -->
+				<div id="intro">
+                    <h1>{{site.title}}</h1>
+					<ul class="actions">
+						<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+					</ul>
+				</div>
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+				<!-- Nav -->
+                {% include nav.html %}
+
+
+				<!-- Main -->
+				<div id="main">
+                    <!-- Posts -->
+                    <header class="major">
+                        <h1><a href="{{ "/projects/" | absolute_url }}">Projects</a></h1>
+                    </header>
+					<section class="posts">
+                        {% for post in site.categories['project'] limit:5 %}
+								<article>
+									<header>
+										<span class="date">{{ post.date | date_to_string }}</span>
+										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                                    <h6>Points: {{ post.points }}</h6>
+                                    <h6>Status: {{ post.status }}</h6>
+									</header>
+                                {% if post.image %}
+			                         <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+                                {% endif%}
+									<p>{{ post.excerpt }}</p>
+									<ul class="actions">
+										<li><a href="{{ post.url | absolute_url }}" class="button">Details</a></li>
+									</ul>
+								</article>
+                         {% endfor %}
+                     </section>
+                     <footer>
+                         <ul class="actions">
+                             <li><a href="{{ "/projects/" | absolute_url }}" class="button">See all projects</a></li>
+                         </ul>
+                     </footer>
+				</div>
+
+    		<!-- Footer -->
+            {% include foot.html %}
+			</div>
+		<!-- Scripts -->
+		{% include scripts-main.html %} {% include tracking.html %}
+	</body>
+</html>
