@@ -1,6 +1,6 @@
 ---
 layout: project
-id: DCT192NF206
+project_id: DCT192NF206
 title:  Product Analysis
 excerpt: In this module we are trying to find a relationship between the background of an individual (age, gender, economic affluence, community) and the products he buys from departmental stores on a daily basis.
 category: project

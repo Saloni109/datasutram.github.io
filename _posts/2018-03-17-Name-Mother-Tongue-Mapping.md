@@ -1,6 +1,6 @@
 ---
 layout: project
-id: DCT192NF208
+project_id: DCT192NF208
 title:  Name - Mother tongue mapping
 excerpt: The idea behind this module is to have an idea of the back-ground of the person using just his name
 category: project

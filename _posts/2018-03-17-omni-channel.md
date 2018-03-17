@@ -1,9 +1,9 @@
 ---
 layout: project
-id: DCT192NF105
+project_id: DCT192NF105
 title: OMNI channel marketing
 excerpt: Research on ongoing work in OMNI channel with respect to e-commerce and retail
-category: project 
+category: project
 topics: research
 date:   2018-03-17
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: project
-id: DCT192NF104
+project_id: DCT192NF104
 title: Click & Collect
 excerpt: Study on Click and Collect method of shopping and the technology behind its flourishing
-category: project 
+category: project
 topics: research
 date:   2018-03-17
 comments: true
