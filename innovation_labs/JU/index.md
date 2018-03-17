@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IIEST
+title: JU
 comments: true
 ---
 # JADAVPUR UNIVERSITY
@@ -45,7 +45,7 @@ Here are a few modules(blocks of code) to play around with. Get used to Pandas,F
 * [Making_algorithms]({{ "assets/notebooks/Date_data.ipynb" | absolute_url }})
 * Data
     * <a href="{{ "assets/notebooks/restaurant_data_raw.xlsx" | absolute_url }}" download>Restaurant Raw</a>
-    * <a href="{{ "assets/notebooks/restaurant_data_clean.xlsx" | absolute_url }}" download>Restaurant Clean</a> 
+    * <a href="{{ "assets/notebooks/restaurant_data_clean.xlsx" | absolute_url }}" download>Restaurant Clean</a>
 
 If you have any doubt, feel free to dicuss in the forum below.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IIEST
+title: SXC
 comments: true
 ---
 # ST.XAVIER'S COLLEGE
@@ -18,7 +18,7 @@ All jupyter notebooks discussed in the workshop have been uploaded in the follow
 * [Making_algorithms]({{ "assets/notebooks/Date_data.ipynb" | absolute_url }})
 * Data
     * <a href="{{ "assets/notebooks/restaurant_data_raw.xlsx" | absolute_url }}" download>Restaurant Raw</a>
-    * <a href="{{ "assets/notebooks/restaurant_data_clean.xlsx" | absolute_url }}" download>Restaurant Clean</a> 
+    * <a href="{{ "assets/notebooks/restaurant_data_clean.xlsx" | absolute_url }}" download>Restaurant Clean</a>
 
 ---
 ### PYTHON TUTORIALS
