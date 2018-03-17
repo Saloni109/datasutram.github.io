@@ -25,6 +25,9 @@
                 </header>
                 <div class="image main"><img src="{{page.image}}" alt=""></div>
                 <p>{{content}}</p>
+                <div class="">
+                    {% include intern_form.html %}
+                </div>
                 <div class="PageNavigation">
                     {% if page.previous.url %}
                     <div class="" style="width: 50%; float:left; text-align: left;">
@@ -38,8 +41,8 @@
                         <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
                     </div>
                     {% endif %}
+                </div>
             </section>
-
             <!-- Disqus -->
             {% if page.comments %} {% include disqus.html%} {% endif %}
 

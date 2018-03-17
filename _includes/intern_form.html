@@ -1,0 +1,62 @@
+<!-- <div>
+    <h1>Apply to this project</h1>
+    <form id="ds_intern">
+        <div class="field">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" required/>
+        </div>
+        <div class="field">
+            <label for="email">Email</label>
+            <input type="text" name="email" id="email" required/>
+        </div>
+        <div class="field">
+            <label for="phone">Phone</label>
+            <input type="text" name="phone" id="phone" required/>
+        </div>
+        <div class="field">
+            <label for="college">College</label>
+            <input type="text" name="college" id="college" required/>
+        </div>
+        <div class="field">
+            <label for="stream">Stream</label>
+            <input type="text" name="stream" id="stream" required/>
+        </div>
+        <div class="field">
+            <label for="year">Year</label>
+            <select name="year">
+                <option value="1">1st</option>
+                <option value="2">2nd</option>
+                <option value="3">3rd</option>
+                <option value="4">4th</option>
+                <option value="5">5th</option>
+            </select>
+        </div>
+        <input type="hidden" name="project_id" value="{{ page.project_id }}">
+        <input type="hidden" name="project_title" value="{{ page.title }}">
+        <input type="hidden" name="project_author" value="{{ page.author }}">
+        <input type="hidden" name="project_points" value="{{ page.points }}">
+
+        <ul class="actions">
+            <li><input type="submit" id="submit-form" value="Apply" /></li>
+        </ul>
+    </form>
+</div>
+<script type="text/javascript">
+    var $form = $('form#ds_intern'),
+        url = 'https://script.google.com/macros/s/AKfycbwK2HKsMDok798pN7Z6-zL2eg9d3ljALYY2YcaMcWP8VqEtcXca/exec'
+
+    $('#submit-form').on('click', function(e) {
+        e.preventDefault();
+        var jqxhr = $.ajax({
+            url: url,
+            method: "GET",
+            dataType: "json",
+            data: $form.serializeObject()
+        }).success(
+            // do something
+        );
+    })
+</script>
+ -->
+<h1>Apply</h1>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScp-H4Tt2cCM1o_3YD8XPKJZWnT4SXPknvWTv4GF7LvNFUvpw/viewform?embedded=true" width="100%" height="1200px" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
