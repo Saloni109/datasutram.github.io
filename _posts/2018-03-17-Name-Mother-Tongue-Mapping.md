@@ -1,8 +1,10 @@
 ---
 layout: project
+id: DCT192NF208
 title:  Name - Mother tongue mapping
 excerpt: The idea behind this module is to have an idea of the back-ground of the person using just his name
 category: project
+topics: mathematical modelling
 date:   2018-03-15
 comments: true
 points: 08

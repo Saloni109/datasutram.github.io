@@ -1,8 +1,10 @@
 ---
 layout: project
+id: DCT192NF212
 title:  Electoral Scrape
 excerpt: In this module we need to extract data from a pdf and store it to an excel
 category: project
+topics: coding
 date:   2018-03-17
 comments: true
 points: 12
