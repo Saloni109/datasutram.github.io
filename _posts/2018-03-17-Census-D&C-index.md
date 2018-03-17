@@ -3,7 +3,8 @@ layout: project
 id: DCT192NF010
 title:  Modelling Census data to Affluence
 excerpt: The goal is to recognize which factors affect Demand Index and Connectivity Score of a location and quantize their data mathematically
-category: research mathematical modelling
+category: project
+topics: research mathematical modelling
 date:   2018-03-17
 comments: true
 points: 10

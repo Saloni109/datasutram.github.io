@@ -3,7 +3,8 @@ layout: project
 id: DCT192NF006
 title: Store Locations
 excerpt: Finding geographical coordinates of stores by web scraping or Google API
-category: coding
+category: project 
+topics: coding
 date: 2018-03-17
 comments: true
 points: 06

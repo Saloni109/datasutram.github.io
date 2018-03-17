@@ -20,15 +20,24 @@
             <section class="post">
                 <header class="major">
                     <span class="date">{{page.date | date_to_string}}</span>
-                    <h1>{{site.title}}</h1>
+                    <h1>{{page.title}}</h1>
                     <p>{{page.excerpt}}</p>
                 </header>
                 <div class="image main"><img src="{{page.image}}" alt=""></div>
                 <p>{{content}}</p>
                 <div class="PageNavigation">
                     {% if page.previous.url %}
-                    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> {% endif %} {% if page.next.url %}
-                    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a> {% endif %}
+                    <div class="" style="width: 50%; float:left; text-align: left;">
+                        <h4>Previous Project</h4>
+                        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+                    </div>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <div class="" style="width: 50%; float:right; text-align: right;">
+                        <h4>Next Project</h4>
+                        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                    </div>
+                    {% endif %}
             </section>
 
             <!-- Disqus -->

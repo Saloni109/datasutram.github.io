@@ -1,8 +1,12 @@
 ---
 layout: project
-title:  "Name - Mother tongue mapping"
+title:  Name - Mother tongue mapping
+excerpt: The idea behind this module is to have an idea of the back-ground of the person using just his name
+category: project
 date:   2018-03-15
 comments: true
+points: 08
+status: unsolved
 author: aisik
 submit: aisik.paul@xelpmoc.in
 ---

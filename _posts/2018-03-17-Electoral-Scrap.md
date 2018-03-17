@@ -1,8 +1,12 @@
 ---
 layout: project
-title:  "Product Analysis"
+title:  Electoral Scrape
+excerpt: In this module we need to extract data from a pdf and store it to an excel
+category: project
 date:   2018-03-17
 comments: true
+points: 12
+status: unsolved
 author: aisik
 submit: aisik.paul@xelpmoc.in
 ---
@@ -22,7 +26,7 @@ In the same link you will find an excel file named 'Sample-Vikaspuri' to show yo
 ## Description:
 You can either use python modules like pdfminer, pdfquery or use image processing to extract the data from electoral rolls and store it in a structured form. In this problem time is of the essence, due to the vast number of electoral rolls we are looking for the quickest algorithm.
 
-##Basis of Judgement:
+## Basis of Judgement:
 You will be judged on the basis of how fast your algorithm is compared to those presented by your peers and also on how clean your extracted data is.
 
 ## Points:
