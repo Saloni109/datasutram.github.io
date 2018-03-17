@@ -1,8 +1,9 @@
 ---
-layout: project DCT192NF006
+layout: project
+id: DCT192NF006
 title: Store Locations
 excerpt: Finding geographical coordinates of stores by web scraping or Google API
-category: Coding
+category: coding
 date: 2018-03-17
 comments: true
 points: 06
@@ -12,14 +13,15 @@ submit: ankit.das@xelpmoc.in
 ---
 
 ### Problem statement
-The aim of this problem is to find out coordinates of stores of Berger Paints and Nerolac located in the state of Rajasthan.
+Find out latitude & longitude co-ordinates of stores of Berger Paints & Nerolac located in the state of Rajasthan.
 
 ### Step 1
-Investigate their websites to check whether they have a store locator database.
+Investigate the websites of the respective Paint Companies to check whether they have a store locator database. If they have, inspect and understand their HTML layout so that you can write a code to scrape the data and save it in a tabular form in Excel.
 
 ### Handy pointers
 1. Study which method and packages you need in order to scrape.
-2. Google API allows only 2000 requests per day for free, in case web scraping is out of the question.
+2. Read about Requests, Selenium, BeautifulSoup(python packages) and learn where to use which.
+3. Google API allows only 2000 requests per day for free, in case web scraping is out of the question.
 
 ### Points
 6
