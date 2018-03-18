@@ -21,7 +21,7 @@ https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/J
 
 
 ## Sample
-Rohan Ghosh-> Bengali
+Rohan Ghosh-> Bengali  
 Rohan Joshi-> Gujarati
 
 ## Description:
