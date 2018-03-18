@@ -18,8 +18,7 @@ In this module we need to extract data from a pdf and store it to an excel
 
 ## Data
 Go to this link and download the pdf file '1.pdf'
-https://github.com/datasutram/datasutram.github.io/tree/master/JU/data
-
+https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data
 
 ## Sample
 In the same link you will find an excel file named 'Sample-Vikaspuri' to show you how to store the data in a structured format.  Disclaimer: the scraped data is from Vikaspuri in Delhi and the electoral roll is from Kolkata they will not match.

@@ -17,7 +17,7 @@ The idea behind this module is to have an idea of the back-ground of the person 
 
 ## Data
 Go to this link and download ethnicity_ground_truth.xlsx
-https://github.com/datasutram/datasutram.github.io/tree/master/JU/data/excel
+https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel
 
 
 ## Sample
