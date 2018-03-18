@@ -25,7 +25,7 @@ Rohan Ghosh-> Bengali
 Rohan Joshi-> Gujarati
 
 ## Description:
-The excel file contains the names, surname and mother tongue of around 31,000 individuals.
+The excel file contains the names, surnames and mother tongue of around 31,000 individuals.
 You are advised to train a model of your choice, which would take the name and surname of an individual and predict his mother tongue.
 Basis of Judgement:
 You will be judged on the basis of the accuracy of your model, it will be fed random names from voter list scrape.
