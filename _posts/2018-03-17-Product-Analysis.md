@@ -16,8 +16,7 @@ submit: aisik.paul@xelpmoc.in
 In this module we are trying to find a relationship between the background of an individual (age, gender, economic affluence, community) and the products he buys from departmental stores on a daily basis.
 
 ## Data
-Go to this link and download product_list.xlsx
-https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel
+[Go to this link and download product_list.xlsx](https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel)
 
 
 ## Sample
