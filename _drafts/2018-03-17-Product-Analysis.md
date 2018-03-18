@@ -11,7 +11,7 @@ In this module we are trying to find a relationship between the background of an
 
 ## Data
 Go to this link and download product_list.xlsx
-https://github.com/datasutram/datasutram.github.io/tree/master/JU/data/excel
+https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel
 
 
 ## Sample
