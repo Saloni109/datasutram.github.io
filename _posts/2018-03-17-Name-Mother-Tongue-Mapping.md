@@ -16,12 +16,10 @@ submit: aisik.paul@xelpmoc.in
 The idea behind this module is to have an idea of the back-ground of the person using just his name
 
 ## Data
-Go to this link and download ethnicity_ground_truth.xlsx
-https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel
-
+[Go to this link and download ethnicity_ground_truth.xlsx](https://github.com/datasutram/datasutram.github.io/tree/master/innovation_labs/JU/data/excel)
 
 ## Sample
-Rohan Ghosh-> Bengali  
+Rohan Ghosh-> Bengali
 Rohan Joshi-> Gujarati
 
 ## Description:
